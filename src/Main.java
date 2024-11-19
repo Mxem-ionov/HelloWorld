@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Hello World#2");
+ DZ-2
         var dog = 8.0;
         var cat = 3.6;
         var paper = 763789;
@@ -52,5 +53,7 @@ public class Main {
         totalWorkman = totalWorkman + 94;
         System.out.println("Если в компании работает " + totalWorkman + " человек, то всего " + allTime / totalWorkman +
                 " часов работы может быть поделено между сотрудниками");
+        System.out.println("Hello World#3");
+ master
     }
 }
