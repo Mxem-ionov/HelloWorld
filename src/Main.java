@@ -39,7 +39,7 @@ public class Main {
         System.out.println("За 20 минут машина произвела " + bottleToOneMinutes * 20 + " штук бутылок");
         System.out.println("За 24 часа машина произвела " + bottleToOneMinutes * minutesInHour * hourInDay + " штук бутылок");
         System.out.println("За 3 дня машина произвела " + bottleToOneMinutes * minutesInHour * hourInDay * 3 + " штук бутылок");
-        System.out.println("За 3 дня машина произвела " + bottleToOneMinutes * minutesInHour * hourInDay * 31 + " штук бутылок");
+        System.out.println("За 3 дня машина произвела " + bottleToOneMinutes * minutesInHour * hourInDay * 30 + " штук бутылок");
 
         byte allColor = 120;
         byte whiteColor = 2;
